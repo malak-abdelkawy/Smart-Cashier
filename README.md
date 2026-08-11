@@ -1,1 +1,1 @@
-# Smart-Cashier
+# 🛒 Smart Cashier
