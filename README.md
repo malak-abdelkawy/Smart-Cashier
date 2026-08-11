@@ -414,4 +414,8 @@ Developed by a team of 6 members.
 
 ---
   
-                                     ⭐ **If this project helped you, consider giving it a star !** ⭐
+<div align="center">
+
+⭐ **If this project helped you, consider giving it a star !** ⭐
+
+</div>
