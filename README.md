@@ -87,7 +87,7 @@ State = [Queue₁, Queue₂, Queue₃, Queue₄, Queue₅]
 
 The state changes whenever customers arrive, join queues, or finish being served.
 
-### 🎮 Action
+### 🎮 Actions
 
 For every incoming customer, the agent selects one of the five cashiers:
 
@@ -174,16 +174,6 @@ SARSA is important because:
 | Learning Strategy | Greedy target policy                      | Behavior policy                 |
 | Role in Project   | Optimal allocation baseline               | On-policy allocation comparison |
 
-### Why Compare Them?
-
-Using both algorithms allows us to investigate how different Reinforcement Learning strategies affect the cashier allocation problem.
-
-The comparison focuses on whether an **off-policy algorithm (Q-Learning)** or an **on-policy algorithm (SARSA)** can achieve better performance in terms of:
-
-* Waiting time
-* Reward
-* Queue balance
-* Cashier utilization
 
 ---
 
@@ -253,9 +243,6 @@ The learning process follows these steps:
 
 ---
 
-# 📊 Evaluation Metrics
-
-The performance of both algorithms is evaluated using several metrics.
 
 ### ⏱️ Average Waiting Time
 
@@ -287,38 +274,6 @@ Measures how customers are distributed among the five cashiers.
 
 ---
 
-# 📈 Results
-
-The final experiment compares **Q-Learning** and **SARSA** under the same environment and training conditions.
-
-| Metric               | Q-Learning | SARSA |
-| -------------------- | ---------: | ----: |
-| Average Waiting Time |        TBD |   TBD |
-| Average Reward       |        TBD |   TBD |
-| Total Reward         |        TBD |   TBD |
-| Cashier Utilization  |        TBD |   TBD |
-
-> Replace the `TBD` values with your actual experimental results.
-
-### 📊 Visualization
-
-Add your generated comparison plots here:
-
-```text
-results/
-├── waiting_time_comparison.png
-├── reward_comparison.png
-├── cashier_utilization.png
-└── customer_distribution.png
-```
-
-Example:
-
-```markdown
-![Waiting Time Comparison](results/waiting_time_comparison.png)
-```
-
----
 
 # 🛠️ Technologies & Tools
 
@@ -357,17 +312,6 @@ Smart-Cashier/
 
 # 🚀 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Smart-Cashier.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Smart-Cashier
-```
 
 Install the required dependencies:
 
