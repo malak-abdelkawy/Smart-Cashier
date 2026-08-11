@@ -1,15 +1,12 @@
 # 🛒 Smart Cashier
 
 
-# 🧠 Smart Cashier Optimization using Reinforcement Learning
-
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev)
 [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-RL-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Reinforcement_learning)
 [![Q-Learning](https://img.shields.io/badge/Q--Learning-Off--Policy-8E44AD?style=for-the-badge)](https://en.wikipedia.org/wiki/Q-learning)
 [![SARSA](https://img.shields.io/badge/SARSA-On--Policy-16A085?style=for-the-badge)](https://en.wikipedia.org/wiki/SARSA_%28algorithm%29)
 [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)](https://matplotlib.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
