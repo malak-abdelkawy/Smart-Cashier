@@ -389,43 +389,27 @@ pip install -r requirements.txt
 
 # ▶️ Usage
 
-Run the training process:
 
-```bash
-python src/training.py
-```
+1. Install dependencies:
 
-To evaluate the trained agents:
+   ```bash
+   npm install
+   ```
 
-```bash
-python src/evaluation.py
-```
+2. Run the application:
 
-For experimentation and visualization, open:
+   ```bash
+   npm run dev
+   ```
 
-```text
-notebooks/experiments.ipynb
-```
+3. Open the local development server in your browser and start experimenting with the Smart Cashier system.
 
----
-
-# 🔮 Future Improvements
-
-* Support a larger number of cashiers.
-* Introduce different customer types.
-* Add variable service times.
-* Simulate dynamic customer arrival rates.
-* Implement **Deep Q-Network (DQN)**.
-* Compare additional RL algorithms such as **PPO** and **Double DQN**.
-* Build a real-time cashier monitoring dashboard.
-* Add dynamic pricing or priority-based customer handling.
-* Deploy the trained agent as a real-time intelligent queue management system.
 
 ---
 
 
 ## 👥 Team
 
-Developed as a collaborative Reinforcement Learning project focused on:
+Developed by a team of 6 members.
 
-**Intelligent Resource Allocation • Queue Optimization • Reinforcement Learning • Decision Making**
+---
