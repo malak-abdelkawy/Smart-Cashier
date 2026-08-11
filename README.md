@@ -7,7 +7,6 @@
 [![Q-Learning](https://img.shields.io/badge/Q--Learning-Off--Policy-8E44AD?style=for-the-badge)](https://en.wikipedia.org/wiki/Q-learning)
 [![SARSA](https://img.shields.io/badge/SARSA-On--Policy-16A085?style=for-the-badge)](https://en.wikipedia.org/wiki/SARSA_%28algorithm%29)
 [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)](https://matplotlib.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 ---
@@ -371,13 +370,13 @@ Smart-Cashier-RL/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Smart-Cashier-RL.git
+git clone https://github.com/your-username/Smart-Cashier.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Smart-Cashier-RL
+cd Smart-Cashier
 ```
 
 Install the required dependencies:
@@ -424,15 +423,6 @@ notebooks/experiments.ipynb
 
 ---
 
-# 💡 Key Takeaway
-
-This project demonstrates how **Reinforcement Learning can be applied to real-world queue optimization and resource allocation**.
-
-Instead of assigning customers randomly, the intelligent agent learns from the environment and improves its decision-making strategy over time.
-
-By comparing **Q-Learning** and **SARSA**, the project provides practical insight into how **off-policy and on-policy Reinforcement Learning algorithms** behave in a dynamic cashier allocation problem.
-
----
 
 ## 👥 Team
 
