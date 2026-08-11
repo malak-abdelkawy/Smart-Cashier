@@ -337,30 +337,20 @@ Example:
 # 📂 Project Structure
 
 ```text
-Smart-Cashier-RL/
+Smart-Cashier/
 │
-├── data/
-│   └── ...
 │
 ├── src/
-│   ├── environment.py
-│   ├── q_learning.py
-│   ├── sarsa.py
-│   ├── training.py
-│   └── evaluation.py
-│
-├── notebooks/
-│   └── experiments.ipynb
-│
-├── results/
-│   ├── waiting_time_comparison.png
-│   ├── reward_comparison.png
-│   ├── cashier_utilization.png
-│   └── customer_distribution.png
-│
+│   ├── App.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   ├── types.ts
+│  
+├── index.html
+├── SmartStore_RL_Project.ipynb/
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+
 ```
 
 ---
