@@ -59,11 +59,11 @@ The learned policy should therefore favor cashier assignments that result in sho
 ## 📸 Demo 
 
 
-<img src="1.png" width="100%">
+<img src="demo/1.png" width="100%">
 
 ---
 
-<img src="2.png" width="100%">
+<img src="demo/2.png" width="100%">
 
 
 ---
