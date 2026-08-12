@@ -56,6 +56,19 @@ The learned policy should therefore favor cashier assignments that result in sho
 
 ---
 
+## 📸 Demo 
+
+
+<img src="1.png" width="100%">
+
+---
+
+<img src="2.png" width="100%">
+
+
+---
+
+
 # 🧠 Reinforcement Learning Environment
 
 The cashier allocation problem is modeled as a Markov Decision Process (MDP).
