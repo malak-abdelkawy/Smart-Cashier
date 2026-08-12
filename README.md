@@ -237,25 +237,6 @@ SARSA is important because:
 
 ---
 
-# 🔁 Training Process
-
-The learning process follows these steps:
-
-1. Initialize the environment.
-2. Generate an incoming customer.
-3. Observe the current cashier/queue state.
-4. Select an action using the RL policy.
-5. Assign the customer to one of the five cashiers.
-6. Calculate the customer's waiting time.
-7. Generate the corresponding reward.
-8. Update the Q-values.
-9. Move to the next state.
-10. Repeat the process for multiple episodes.
-11. Evaluate the trained agent.
-12. Compare Q-Learning and SARSA.
-
----
-
 
 ### ⏱️ Average Waiting Time
 
