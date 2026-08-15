@@ -19,23 +19,6 @@
 
 ---
 
-## 📌 Overview
-
-Traditional cashier systems often assign customers randomly or rely on customers choosing a queue themselves. This can result in:
-
-* Uneven customer distribution
-* Overloaded queues
-* Long waiting times
-* Underutilized cashiers
-* Poor overall checkout efficiency
-
-This project addresses the problem using **Reinforcement Learning**.
-
-The system simulates a supermarket environment with **5 cashiers** and a continuous stream of incoming customers. At each step, the RL agent observes the current state of the cashier queues and decides which cashier should serve the next customer.
-
-The agent receives a **reward based on customer waiting time**, allowing it to gradually learn a more efficient allocation strategy.
-
----
 
 ## 🎯 Project Objective
 
